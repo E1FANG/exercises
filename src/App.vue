@@ -1,9 +1,10 @@
 <script setup lang="ts">
+import SearchForm from './exercises/searchForm/index.vue';
 </script>
 
 <template>
   <div>
-    index
+      <SearchForm/>
   </div>
 </template>
 
